@@ -29,7 +29,7 @@ b.	Ploting the comparsion figure
  ![confusion_matrix](https://user-images.githubusercontent.com/23052407/160682727-236ba0f1-0e98-4326-8ace-97b5b5e97eec.png)
 
 c. Anything you want to present 
-	the distribution of normal and pneumonia isn’t balanced.
+the distribution of normal and pneumonia isn’t balanced.
 # 4.	Discussion 
 a.	Anything you want to share 
 The best accuracy is beyond 98%, which means that desnet161 is a good architecture for detecting pneumonia from chest X-ray images
