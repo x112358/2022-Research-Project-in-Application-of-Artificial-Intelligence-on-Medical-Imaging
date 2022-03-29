@@ -27,9 +27,11 @@ transform.ToTensor()
 
 # 3.	Experiment result
 a.	Highest testing accuracy and F1-score (Screenshot) 
+
  ![score](https://user-images.githubusercontent.com/23052407/160682748-55f0cd6b-37d8-41da-a83a-78679e2767d2.PNG)
 
 b.	Ploting the comparsion figure 
+
  ![performance](https://user-images.githubusercontent.com/23052407/160682756-b61f809a-0d6d-4f59-98da-fb95f3722666.png)
 
  ![confusion_matrix](https://user-images.githubusercontent.com/23052407/160682727-236ba0f1-0e98-4326-8ace-97b5b5e97eec.png)
